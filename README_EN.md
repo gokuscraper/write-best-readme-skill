@@ -111,7 +111,7 @@ To change the rules, edit `SKILL.md` and keep the hard-rules section in sync. PR
 
 ## Support
 
-If this skill helps you, you can feed my dog and cat some [canned food 🥩](https://ko-fi.com/gokuscraper).
+If this skill helps you, you can feed my two cats some [canned food 🥩](https://ko-fi.com/gokuscraper).
 
 ## License
 

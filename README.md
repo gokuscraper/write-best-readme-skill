@@ -111,7 +111,7 @@ Agent 会按 4 步工作流执行:
 
 ## 支持
 
-如果这个技能帮到了你,可以请我的狗和猫吃点 [罐头 🥩](https://ko-fi.com/gokuscraper)。
+如果这个技能帮到了你,可以请我的两只猫吃点 [罐头 🥩](https://ko-fi.com/gokuscraper)。
 
 ## License
 
