@@ -107,6 +107,16 @@ description: Use when 需要写、重写或更新 GitHub 项目 README、生成�
   默认只写 ko_fi: gokuscraper;用户给了其他平台(GitHub Sponsors/custom)就加上,只留真实存在的
 - **LICENSE**:项目已有 LICENSE 就保留并在 README 链接它;没有则用 MIT 标准文本,替换 `<year>` 为当前年份、`<copyright holders>` 为作者名
 
+### 第 5 步:仓库 About(简介)
+
+GitHub 仓库的 About(description)一并填写,规则:
+
+- **一句话,英文在前、中文在后**:`英文简介 — 中文简介`
+- 英文段含英文 SEO 关键词(GitHub 搜索按它索引),中文段点明"技能/工具 + 核心能力",便于中文检索
+- 覆盖:项目是什么(形态)+ 干什么(核心能力)+ 一两项差异化卖点,不加标点堆砌
+- 示例(本 skill 自己的 About):
+  `An Agent Skill that writes bilingual (ZH/EN) READMEs from real code — unified template, comparison table, SEO keywords, FUNDING.yml & LICENSE in one pass. 为 AI Agent 编写中英双语 README 的技能:统一模板、强制对比表、内置 SEO 关键词,一次配齐捐赠配置与开源协议`
+
 ## 硬性规则
 
 - **No fabrication**:所有命令、特性、数据必须来自真实项目或用户确认,禁止编造;扫描事实以代码/manifest 为准,不复读旧 README
