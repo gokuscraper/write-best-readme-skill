@@ -107,15 +107,18 @@ description: Use when 需要写、重写或更新 GitHub 项目 README、生成�
   默认只写 ko_fi: gokuscraper;用户给了其他平台(GitHub Sponsors/custom)就加上,只留真实存在的
 - **LICENSE**:项目已有 LICENSE 就保留并在 README 链接它;没有则用 MIT 标准文本,替换 `<year>` 为当前年份、`<copyright holders>` 为作者名
 
-### 第 5 步:仓库 About(简介)
+### 第 5 步:仓库 About(简介)与 Topics(标签)
 
-GitHub 仓库的 About(description)一并填写,规则:
+GitHub 仓库的 About 与 Topics 一并填写,规则:
 
-- **一句话,英文在前、中文在后**:`英文简介 — 中文简介`
-- 英文段含英文 SEO 关键词(GitHub 搜索按它索引),中文段点明"技能/工具 + 核心能力",便于中文检索
-- 覆盖:项目是什么(形态)+ 干什么(核心能力)+ 一两项差异化卖点,不加标点堆砌
-- 示例(本 skill 自己的 About):
-  `An Agent Skill that writes bilingual (ZH/EN) READMEs from real code — unified template, comparison table, SEO keywords, FUNDING.yml & LICENSE in one pass. 为 AI Agent 编写中英双语 README 的技能:统一模板、强制对比表、内置 SEO 关键词,一次配齐捐赠配置与开源协议`
+- **About 必须短:英文一句话 + 中文一句话,各自独立成句,不加连接符粘成长句**
+  - 英文句:形态 + 核心能力,含英文 SEO 关键词
+  - 中文句:形态 + 核心能力,便于中文检索
+  - 示例(本 skill 自己的 About):
+    `An Agent Skill generating bilingual (ZH/EN) GitHub READMEs — unified template, comparison table, SEO keywords, funding config, license. 为 AI Agent 生成中英双语 README 的技能:固定模板、强制对比表、捐赠与协议一次配齐。`
+- **Topics 必须加**:GitHub 仓库主页下方标签区,8-20 个,英文小写、连字符/纯单词,是重要 SEO 位
+  - 核心词:形态(readme, skills, ai-agent, agent-skill)、生态(claude-code, opencode)、语言(markdown, documentation, bilingual)、能力(readme-generator, seo, llm)
+  - 示例(本 skill 自己的 Topics):`readme`, `skills`, `ai-agent`, `agent-skill`, `claude-code`, `opencode`, `markdown`, `documentation`, `bilingual`, `readme-generator`, `seo`, `github`, `llm`, `chinese`, `english`, `comparison-table`
 
 ## 硬性规则
 
