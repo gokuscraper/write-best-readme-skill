@@ -73,7 +73,7 @@ Agent 会按 4 步工作流执行:
 | `README.md` | 中文版,固定 12 节模板,含 SEO Keywords 段 |
 | `README_EN.md` | 英文版,章节与中文完全对应,语言徽章互切 |
 | `.github/FUNDING.yml` | 赞助配置,默认 `ko_fi: gokuscraper` |
-| `LICENSE` | MIT(项目没有时生成),或沿用项目已有协议 |
+| `LICENSE` | Apache 2.0(项目没有时生成),或沿用项目已有协议 |
 
 ## 工作原理
 
@@ -115,7 +115,7 @@ Agent 会按 4 步工作流执行:
 
 ## License
 
-[MIT](LICENSE) © gokuscraper。
+[Apache 2.0](LICENSE) © gokuscraper。
 
 ---
 

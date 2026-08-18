@@ -12,7 +12,7 @@ description: Use when 需要写、重写或更新 GitHub 项目 README、生成�
 1. `README.md` — 中文(默认)
 2. `README_EN.md` — 英文(与中文互链,可一键切换)
 3. `.github/FUNDING.yml` — 捐赠配置(GitHub 官方赞助按钮)
-4. `LICENSE` — MIT 协议(项目无 LICENSE 时生成;已有则沿用)
+4. `LICENSE` — Apache 2.0 协议(项目无 LICENSE 时生成;已有则沿用)
 
 **所有项目必须输出同一固定结构** —— 章节名、顺序、命名完全一致,只换内容。这是本 skill 的第一原则。
 
@@ -108,7 +108,7 @@ description: Use when 需要写、重写或更新 GitHub 项目 README、生成�
   ko_fi: gokuscraper
   ```
   默认只写 ko_fi: gokuscraper;用户给了其他平台(GitHub Sponsors/custom)就加上,只留真实存在的
-- **LICENSE**:项目已有 LICENSE 就保留并在 README 链接它;没有则用 MIT 标准文本,替换 `<year>` 为当前年份、`<copyright holders>` 为作者名
+- **LICENSE**:项目已有 LICENSE 就保留并在 README 链接它;没有则用 **Apache 2.0**(`https://www.apache.org/licenses/LICENSE-2.0.txt` 官方全文),开头加 `Copyright <year> <作者名>` + 标准指引段落,年/作者在第 2 步确认
 
 ### 第 5 步:仓库 About(简介)与 Topics(标签)
 

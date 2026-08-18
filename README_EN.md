@@ -73,7 +73,7 @@ Deliverables:
 | `README.md` | Chinese version, fixed 12-section template, SEO keywords at the end |
 | `README_EN.md` | English version, chapters fully mirrored, language badges switch inline |
 | `.github/FUNDING.yml` | Sponsorship config, defaults to `ko_fi: gokuscraper` |
-| `LICENSE` | MIT (generated when the project has none), or keeps the existing license |
+| `LICENSE` | Apache 2.0 (generated when the project has none), or keeps the existing license |
 
 ## How it works
 
@@ -115,7 +115,7 @@ I have two cats, TangYuan and Dumpling. If write-best-readme-skill brings joy to
 
 ## License
 
-[MIT](LICENSE) © gokuscraper.
+[Apache 2.0](LICENSE) © gokuscraper.
 
 ---
 
