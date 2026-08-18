@@ -111,7 +111,7 @@ Agent 会按 4 步工作流执行:
 
 ## 支持
 
-如果这个技能帮到了你,可以请我的两只猫吃点 [罐头 🥩](https://ko-fi.com/gokuscraper)。
+我养了两只猫,汤圆和饺子。如果你觉得 write-best-readme-skill 给你的生活带来了快乐,你可以喂它们 [罐头食品 🥩](https://ko-fi.com/gokuscraper)。
 
 ## License
 

@@ -111,7 +111,7 @@ To change the rules, edit `SKILL.md` and keep the hard-rules section in sync. PR
 
 ## Support
 
-If this skill helps you, you can feed my two cats some [canned food 🥩](https://ko-fi.com/gokuscraper).
+I have two cats, TangYuan and Dumpling. If write-best-readme-skill brings joy to your life, you can feed them some [canned food 🥩](https://ko-fi.com/gokuscraper).
 
 ## License
 
