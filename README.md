@@ -25,7 +25,7 @@ write-best-readme-skill(技能名 `readme-writer`)是一个给 Claude Code、ope
 - **中英双语一次配齐**:`README.md` + `README_EN.md` 章节完全对应,语言徽章在当前行内互切,英文版不是敷衍机翻
 - **发布零遗憾**:banner 位置预留、FUNDING.yml、LICENSE 一次生成;素材不齐(缺 banner 等)明确告知"待补齐方可发布",不擅自推送
 - **No fabrication**:所有命令、特性、数据只来自真实项目代码或用户确认,禁止编造、禁止复读旧 README
-- **有性格、不无聊**:H1 强制配「生物」emoji(🐹🦋🦉…),CLI 项目直接展示终端输出,支持段语气轻松
+- **有性格、不无聊**:H1 强制配「生物」emoji(🐹🦋🦉…),CLI 项目直接展示终端输出,支持段是宠物投喂梗
 - **对 Agent 友好**:SKILL.md 里写明完整工作流与硬性规则,任何 Agent 加载后都能稳定产出同款结果
 
 ## 对比
@@ -111,7 +111,7 @@ Agent 会按 4 步工作流执行:
 
 ## 支持
 
-如果这个技能帮到了你,请我喝杯咖啡 ☕ [ko-fi](https://ko-fi.com/gokuscraper)——每一份支持都让维护者更有动力。
+如果这个技能帮到了你,可以请我的狗和猫吃点 [罐头 🥩](https://ko-fi.com/gokuscraper)。
 
 ## License
 

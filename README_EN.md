@@ -111,7 +111,7 @@ To change the rules, edit `SKILL.md` and keep the hard-rules section in sync. PR
 
 ## Support
 
-If this skill helps you, buy me a coffee ☕ on [ko-fi](https://ko-fi.com/gokuscraper) — every bit of support keeps the maintainer going.
+If this skill helps you, you can feed my dog and cat some [canned food 🥩](https://ko-fi.com/gokuscraper).
 
 ## License
 
